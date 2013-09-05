@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Spyrum</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="spider_logo">Spider Logo</string>
+    <color name="red">#FF0000</color>
+    <color name="blue">#a0afb9</color>
+    <string name="spyrum">SPYRUM</string>
+    <dimen name="tsize">50dp</dimen>
+
+</resources>
